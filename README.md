@@ -133,16 +133,27 @@ Connection string in App.config:
 
 ## Key Features
 ✅ User Authentication (Login/Signup)
+<br>
 ✅ Dashboard navigation
+<br>
 ✅ Full CRUD operations for Supplier, Product, and Sales
+<br>
 ✅ Foreign key relationships maintained
+<br>
 ✅ Automatic stock reduction on sales
+<br>
 ✅ Stock validation (prevents overselling)
+<br>
 ✅ Parameterized queries (SQL injection prevention)
+<br>
 ✅ Input validation
+<br>
 ✅ Auto-refresh after operations
+<br>
 ✅ Success/Error messages
+<br>
 ✅ DataGridView click to select and populate fields
+<br>
 ✅ Password masking in login/signup
 
 ## How to Use
